@@ -1,0 +1,3 @@
+line 1: mood=1-5, then the entry
+mood=4
+Good lab session today...
